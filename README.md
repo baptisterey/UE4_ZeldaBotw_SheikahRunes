@@ -23,3 +23,4 @@ This project features :
 * Animation System - [Advanced Locomotion System V4](https://www.unrealengine.com/marketplace/en-US/product/advanced-locomotion-system-v1)
 * Hammer and Snowflake Icon by [Freepik](https://www.flaticon.com/authors/freepik)
 * Sword animations from [mixamo](https://www.mixamo.com)
+* Particle Pack by [Kenney](https://www.kenney.nl/assets/particle-pack)
