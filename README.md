@@ -18,7 +18,7 @@ This project features :
 
 ### Magnesis 🧲
 
-## ⚠️Disclaimer⚠️
+## Disclaimer
 The user interface uses the Nintendo Switch controller scheme. 
 
 ## Credits
