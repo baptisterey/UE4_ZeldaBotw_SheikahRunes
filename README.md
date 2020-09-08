@@ -1,7 +1,7 @@
 # UE4 - Zelda Breath of the Wild Sheikah Runes
 <p align="center">
   <img src="./DemoRessources/SheikahOrbs2.gif" width="550" height="200">
-  <br><b>Recreation of the 4 Sheikah Runes mechanics from Zelda Breath of the Wild using the Unreal Engine 4 (V4.25.3).</b>
+  <br><b>Recreation of the 4 Sheikah Runes mechanics from Zelda Breath of the Wild using the Unreal Engine 4 (V4.25.3)</b>
 </p>
 
 
