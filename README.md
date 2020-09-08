@@ -54,7 +54,7 @@ With the <b>Cryonis</b> rune, Link can create and destroy pillars on water surfa
   <br><i>Link can hit froze objects to create momentum</i>
 </p>
  
-With the <b>Stasis</b> rune, Link can freeze objects in time, allowing him to create momentum by hitting them. He can them release them, and all the momentum launch the object with great force.
+With the <b>Stasis</b> rune, Link can freeze objects in time, allowing him to create momentum by hitting them. He can then release them, making the momentum accumulated launch the object with great force in the air.
   
 
 ### Magnesis 🧲
@@ -66,8 +66,12 @@ With the <b>Stasis</b> rune, Link can freeze objects in time, allowing him to cr
  With the <b>Magnetic</b> rune, Link can carry big magnetic objects. He can pull or push the objects.
  
 ## User Interface
-
 The project includes a working and faithful user interface, with several widgets, all animated.
+
+<p align="center">
+  <img src="./DemoRessources/CarouselUI.gif">
+  <br><i>Link can quickly select a rune via a carousel</i>
+</p>
 
 I designed the UI to be all event-driven by severals event dispatchers to isolate each system. 
 
