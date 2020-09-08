@@ -35,7 +35,7 @@ The animation blueprint uses IK on both hands based on two sockets found in the 
 ### Remote Bombs 💣
 <p align="center">
   <img src="./DemoRessources/ExplodeBomb.gif">
-  <br><i>Link can make bombs explode remotly</i>
+  <br><i>Link can make bombs explode remotely</i>
 </p>
 
 With the <b>Remote Bombs</b> rune, Link can create two bombs (one rounded and one squared). The bombs react like a carryable object, Link can drop and throw the bomb and then make them explode.
@@ -54,7 +54,7 @@ With the <b>Cryonis</b> rune, Link can create and destroy pillars on water surfa
   <br><i>Link can hit froze objects to create momentum</i>
 </p>
  
-With the <b>Stasis</b> rune, Link can freeze objects in time, allowing him to create momentum by hitting them. He can then release them, making the momentum accumulated launch the object with great force in the air.
+With the <b>Stasis</b> rune, Link can freeze objects in time, allowing him to create momentum by hitting them. He can then release them, making the momentum accumulated to launch the object with great force in the air.
   
 
 ### Magnesis 🧲
@@ -79,7 +79,7 @@ I designed the UI to be all event-driven by severals event dispatchers to isolat
 
 <p align="center">
   <img src="./DemoRessources/ShrineCryonis.png" width="640" height="360">
-  <br><i>Preview of the room for the <b>Cryonis</b> rune<i>
+  <br><i>Preview of the room for the <b>Cryonis</b> rune</i>
 </p>
 
 For testing purposes, a little Demo Shrine is included in the project. The player must face challenges to collect one orb for each rune, showing that the mechanics are working correctly.
@@ -90,7 +90,7 @@ For testing purposes, a little Demo Shrine is included in the project. The playe
 * Fix some bugs and tweak VFX 🐛
 
 ## Disclaimer
-The user interface uses the Nintendo Switch controller scheme. 🎮 
+⚠️⚠️ The user interface uses the Nintendo Switch controller scheme. ⚠️⚠️
 
 ## Credits
 * Animation System - [Advanced Locomotion System V4](https://www.unrealengine.com/marketplace/en-US/product/advanced-locomotion-system-v1)
@@ -102,4 +102,4 @@ The user interface uses the Nintendo Switch controller scheme. 🎮
 * Rounded cube from [Acceloroto](http://acceleroto.com/2013/08/game-prototyping-rounded-cube-3d-model/)
 * Additional UI elements from [Paul "Superfondue" Rey](https://www.instagram.com/superfondue/)
 * Grid materials from [SuperGrid](https://www.unrealengine.com/marketplace/en-US/product/supergrid-starter-pack)
-* All assets from Zelda Breath of the Wild are used for educational purposes only
+* All assets from Zelda Breath of the Wild are used for educational purposes only and are property of Nintendo (please don't strike me...)
