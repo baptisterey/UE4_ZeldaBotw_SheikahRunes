@@ -38,7 +38,7 @@ The animation blueprint uses IK on both hands based on two sockets found in the 
   <br><i>Link can make bombs explode remotely</i>
 </p>
 
-With the <b>Remote Bombs</b> rune, Link can create two bombs (one rounded and one squared). The bombs react like a carryable object, Link can drop and throw the bomb and then make them explode.
+With the <b>Remote Bombs</b> rune, Link can create two bombs (one rounded and one squared). The bombs react like a carryable object, Link can drop and throw the bomb and then make it explode.
 
 ### Cryonis ❄️
 <p align="center">
@@ -54,7 +54,7 @@ With the <b>Cryonis</b> rune, Link can create and destroy pillars on water surfa
   <br><i>Link can hit froze objects to create momentum</i>
 </p>
  
-With the <b>Stasis</b> rune, Link can freeze objects in time, allowing him to create momentum by hitting them. He can then release them, making the momentum accumulated to launch the object with great force in the air.
+With the <b>Stasis</b> rune, Link can freeze objects in time, allowing him to create momentum by hitting them. He can then release them, making the momentum accumulated launch the object with great force in the air.
   
 
 ### Magnesis 🧲
